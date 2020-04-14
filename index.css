@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    font-size: 5rem;
+}
+.nav{
+    text-decoration: none;
+     color: black;
+}
+.nav:hover{
+    color: red;
+    }
+    
