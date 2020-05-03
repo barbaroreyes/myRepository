@@ -14,6 +14,7 @@
     text-align: center;
     font-size: 5rem;
     letter-spacing: 5px;
+    color: bisque;
     text-shadow:  5px  4px grey;
 }
 .nav{
@@ -29,4 +30,5 @@ width:  200px;
 height:  100px;
 margin:  60px;
 display: inline-block;
+color:#FFF;
 }
