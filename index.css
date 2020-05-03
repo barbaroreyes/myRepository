@@ -21,6 +21,14 @@
     text-decoration: none;
      color: rgb(17, 1, 1);
 }
+.nav2{
+    text-decoration: none;
+    color: bisque;
+   
+}
+.nav3{
+    margin: 10px;
+}
 .nav:hover{
     color: red;
     }
